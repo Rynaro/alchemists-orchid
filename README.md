@@ -35,6 +35,12 @@ A versatile color palette crafted for any terminal emulator or editor, with its 
 | Purple     | `#C89BD0` | Mystic Rune         |
 | Cyan       | `#8FBCBB` | Glacial Stream      |
 
+
+<p align="center">
+  <img src="assets/alchemists_orchid_pallete.svg" alt="alchemists orchid palette"  />
+</p>
+
+
 ---
 
 ## 🚀 Installation
